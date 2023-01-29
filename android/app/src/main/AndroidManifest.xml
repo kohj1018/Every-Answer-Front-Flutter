@@ -2,7 +2,7 @@
     package="kr.everyanswer.every_answer_front_flutter">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="every_answer_front_flutter"
+        android:label="에브리엔서"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
